@@ -1,0 +1,11 @@
+<view class="card" >
+  <image class="bg" src="../../img/bg.jpg" mode="widthFix"></image>
+  <image class="logo" src="../../img/ldj.png" mode="widthFix"></image>
+
+  <view class="info">
+    <view class="name">李德举</view>
+    <view class="desc">前端开发工程师</view>
+    <view>花名：古德、得德</view>
+    <view>blog: https://www.gd-ldj.com</view>
+  </view>
+</view>
